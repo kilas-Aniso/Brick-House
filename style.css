@@ -32,23 +32,29 @@ nav ul li{
 
 
 }
+a{
+    padding-top: 10px;
+}
 
 .content{
     display: flex;
 }
-.content2{
+.content2 {
 background-color: #ffd600;
-
 margin-bottom: 2%;
+
 
 }
 .content3{
 margin-left: 70%;
-margin-top: -35%;
+margin-top: -40%;
 border-style: ridge;
 text-align: center;
 border-radius: 3px;
 border-color: gainsboro;
+height: 450px;
+padding-top: 50px;
+width: 300px;
 }
 .photos{
 margin-top: 3%;
@@ -58,6 +64,7 @@ padding: 10px 40px;
 
 
 }
+
 
 .img11,.img10,.img12,.img6,.img7,.img8,.img9,.img13{
     background-color:bisque;
@@ -119,7 +126,7 @@ color: #fff;
 }
 
 .semi{
-   
+   display: flex;
 
 background-color: #ffd600;
 color: #fff;
@@ -145,21 +152,7 @@ input{
 
 
 }
-#button4{
-    border-radius: 10px;
-    padding:17px 120px;
-  
 
-
-
-
-}     
-#button5{
-
-    border-radius: 10px;
-    padding:8px 20px;
-    float: left;
-}   
 
 .picc{
 margin-bottom: 3%;
@@ -182,7 +175,7 @@ padding: 10px 10px;
 }
 
 .container{
-    max-width: 1000px;
+    max-width: 1500px;
     margin: auto;
     
 
@@ -200,10 +193,47 @@ padding: 10px 10px;
     
     
     
+    
 
 }
 .footer-col{
-    width: 25%;
+    width: 35%;
     padding: 0 15px;
     
+}
+#imaage{
+margin: auto;
+
+}
+.navbar3{
+    background-color: black;
+    margin-top: -2%;
+
+}
+i{
+    color: #fff;
+    margin-top: 2%;
+}
+.heading{
+margin-top: 2%;
+
+}
+
+.card{
+border-style: solid;
+border-width: 1px;
+padding: 0 1%;
+justify-content: space-between;
+width: 12%;
+border-radius: 2%;
+
+
+}
+.navbar4{
+display:inline-block;
+
+}
+.footer-col2{
+    display: inline-flex;
+    margin-left: 15%;
 }
