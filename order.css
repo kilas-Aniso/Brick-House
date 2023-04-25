@@ -1,0 +1,82 @@
+.head{
+    background-color: yellow;
+    padding: 2px 0 0 0;
+}
+#img{
+  width: 40px;
+  margin-left: 30px;
+}
+
+
+.payment{
+  margin-top: 100px;
+}
+
+#brickhouse{
+  margin-left: 80px;
+  margin-top: -2px;
+  color: aliceblue;
+  font-weight: bolder;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -5px;
+    color: aliceblue;
+    font-weight: bolder;
+}
+#p{
+    color: rgb(188, 68, 108);
+    margin-left: 35%;
+    margin-top: -3%;
+}
+
+#p1{
+  margin-left: 20%;
+  margin-top: -3%;
+  color: grey;
+}
+
+#delivery{
+  margin-left: 35%;
+  margin-top: -3%;
+  color: green;
+}
+
+
+.pickup{
+   margin-left: 60px;
+   margin-top: -3%;
+}
+
+.Nova{
+  margin-left: 60px;
+  margin-top: -3%;
+}
+
+.ukroshta{
+   margin-left: 60px;
+   margin-top: -3%;
+}
+
+.cash{
+  margin-left: 60px;
+}
+
+.google{
+  margin-left: 60px;
+}
+
+.apple{
+  margin-left: 60px;
+  /* margin-top: 5%; */
+}
+
+.check{
+  margin-top: -3%;
+}
+.circle{
+  margin-left: 40%;
+  margin-top: -2%;
+  color: grey;
+}
